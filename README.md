@@ -1,0 +1,2 @@
+# StrongforcesOJ
+Too strong
